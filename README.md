@@ -37,4 +37,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ValentinBrebion&theme=onedark)](https://github.com/ValentinBrebion/github-profile-trophy)
 
+Mes languages: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinBrebion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ###
