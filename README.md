@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ValentinBrebion/ValentinBrebion/output/snake.svg" alt="Snake animation" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ValentinBrebion&theme=onedark)](https://github.com/ValentinBrebion/github-profile-trophy)
 
 ###
